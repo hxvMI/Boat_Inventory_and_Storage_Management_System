@@ -1,4 +1,4 @@
-# Boat Management System
+# Boat_Inventory_and_Storage_Management_System
 
 A C program designed to manage boat information, such as inventory, storage locations, payments, and monthly charges. This program reads from a CSV file, allows for real-time manipulation of boat data, and saves updated information back to the file.
 
